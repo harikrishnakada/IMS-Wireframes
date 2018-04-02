@@ -1,1 +1,1 @@
-This is a wireframe.
+This is a just a simple wireframe.
